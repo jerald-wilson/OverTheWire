@@ -1,0 +1,38 @@
+Bandit 0
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+
+cat readme
+Congratulations on your first steps into the bandit game!!
+Please make sure you have read the rules at https://overthewire.org/rules/
+If you are following a course, workshop, walthrough or other educational activity,
+please inform the instructor about the rules as well and encourage them to
+contribute to the OverTheWire community so we can keep these games free!
+
+The password you are looking for is: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+
+
+Bandit 1
+cat ./-
+263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+
+Bandit 2
+cat ./"spaces in this filename"
+MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+
+
+Bandit 3
+bandit3@bandit:~/inhere$ ls -al
+total 12
+drwxr-xr-x 2 root    root    4096 Jul 17 15:57 .
+drwxr-xr-x 3 root    root    4096 Jul 17 15:57 ..
+-rw-r----- 1 bandit4 bandit3   33 Jul 17 15:57 ...Hiding-From-You
+bandit3@bandit:~/inhere$ cat ...Hiding-From-You
+2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+
+Bandit 4
+bandit4@bandit:~/inhere$ head ./-file07
+4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+
+Bandit 5
+ssh bandit5@bandit.labs.overthewire.org -p 2220
+
