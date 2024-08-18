@@ -35,4 +35,19 @@ bandit4@bandit:~/inhere$ head ./-file07
 
 Bandit 5
 ssh bandit5@bandit.labs.overthewire.org -p 2220
+bandit5@bandit:~/inhere$ ls -laR
 
+bandit5@bandit:~/inhere$ cat ./maybehere07/.file2
+HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+
+
+
+Bandit 6
+cd ../
+find / -group bandit6
+cat /var/lib/dpkg/info/bandit7.password
+morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
+
+Bandit 7
+grep millionth data.txt
+millionth	dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
