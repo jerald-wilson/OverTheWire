@@ -51,3 +51,7 @@ morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
 Bandit 7
 grep millionth data.txt
 millionth	dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
+
+Bandit 8
+bandit8@bandit:~$ sort data.txt |  uniq -u
+4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
